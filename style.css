@@ -1,6 +1,7 @@
 body{
-    background-color: rgba(0, 119, 255, 0.568);
+    background-color: rgba(56, 142, 240, 0.568);
 }
 h1{
-   color: rgb(75, 71, 71);
+   color: rgb(15, 49, 240);
+   font-style: italic;
 }

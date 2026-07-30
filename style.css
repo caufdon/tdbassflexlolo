@@ -3,14 +3,17 @@ body{
 }
 h1{
    color: rgb(15, 49, 240);
-   font-style: italic;
+   font-style: Monospace;
 }
 h2{
     color:red;
+    font-style: Monospace
 }
 h3{
     color:white;
+    font-style: Monospace;
 }
 h4{
     color:black;
+    font-style: Monospace;
 }

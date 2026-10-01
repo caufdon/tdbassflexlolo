@@ -9,6 +9,11 @@ h2{
     color:red;
     font-style: Monospace
 }
+.img1 {
+    width: 50%;
+    text-align: center;
+}
+
 h3{
     color:white;
     font-style: Monospace;
@@ -16,4 +21,11 @@ h3{
 h4{
     color:black;
     font-style: Monospace;
+}
+
+.lista {
+    text-align: left;
+    font-style: italic;
+    text-decoration: overline;
+    color: ghostwhite;
 }
